@@ -1,0 +1,29 @@
+_repo: Keleti-eletkepek_66497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vámbéry, Ármin
+    aliases:
+    - Bamberger, Hermann
+    - Vambery, Armin
+    - Vamberi, Armin German
+    - Vamberger, Hermann
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '41340'
+    url: http://www.gutenberg.org/2009/agents/41340
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin
+    - https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+description: ''
+gutenberg_issued: '2021-10-08'
+identifiers:
+  gutenberg: '66497'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Keleti életképek
+url: http://www.gutenberg.org/ebooks/66497
